@@ -1,0 +1,24 @@
+// Jonathan Davis
+// CSC 4010 - 800 - Programming Languages
+// 7L7W - Prolog Day 1 and Day 3
+// Dr. Martha J. Kosa
+//
+// All code tested with GNU Prolog 1.3.1 (same as 7L7W author used)
+//
+// day1.pl
+// Issue the following queries for results:
+//
+// author1. (For Shakespeare)
+// author2. (For Stephen King)
+// author3. (For R. L. Stine)
+// guitarists.
+// singers.
+// bassists.
+// drummers.
+//
+//
+// day3.pl
+// I have a premade 6x6 and 9x9 puzzle set up. Solve them with these queries:
+//
+// solve6x6.
+// solve9x9.

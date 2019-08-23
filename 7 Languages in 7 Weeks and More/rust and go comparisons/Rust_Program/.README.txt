@@ -1,0 +1,14 @@
+// Jonathan Davis
+// CSC 4010 - 800 - Programming Languages (Honors)
+// Rust Version of CSC 3410's Program #1: Plane-Line Intersection 
+// Dr. Martha J. Kosa
+//
+// There are two ways to run this program.
+//
+// You can either supply the name of the input file as a command line argument:
+// plane_line.exe plane_line.txt
+// This method opens the file and reads the input, printing only the result to standard output.
+// 
+// Or you can simply use standard input to supply the data:
+// plane_line.exe < plane_line.txt
+// This method will display prompts and produce output similar to the original 3410 assignment's instructions.
